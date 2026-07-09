@@ -4,7 +4,7 @@ This repository contains the custom WordPress code, archive templates, and docum
 
 The live website documents the life, education, academic career, places, books, publications, and scholarly contributions of **Prof. A. Sathasivam M.A., D.Phil. (Oxon)**, Tamil linguist, professor, and researcher in Tamil grammar, lexicography, Dravidian linguistics, and Sumero–Dravidian studies.
 
-**Live website:** [Prof. A. Sathasivam D.Phil Archive Project](https://professor.a-sathasivam.net/)
+**Live website:** [Prof. A. Sathasivam D.Phil Archive Project](https://professor.a-sathasivam.net/?utm_source=github.com&utm_medium=repo&utm_campaign=0xgthuva&utm_id=github.com&utm_term=repo&utm_content=repo)
 
 ---
 
@@ -51,7 +51,7 @@ This repository supports the live WordPress website by providing clean templates
 
 | Section | Live URL | Purpose |
 |---|---|---|
-| Home | [professor.a-sathasivam.net](https://professor.a-sathasivam.net/) | Main biography and archive introduction |
+| Home | [professor.a-sathasivam.net](https://professor.a-sathasivam.net/?utm_source=github.com&utm_medium=repo&utm_campaign=0xgthuva&utm_id=github.com&utm_term=repo&utm_content=repo) | Main biography and archive introduction |
 | Books & Works | [Digital Archive – Books & Works](https://professor.a-sathasivam.net/books/) | Books, publications, and scholarly works |
 | Places | [Places Connected to Prof. A. Sathasivam](https://professor.a-sathasivam.net/places/) | Geographic places connected to his life and research |
 | Education | [Educational Institutions](https://professor.a-sathasivam.net/education/) | Schools, colleges, and universities |
