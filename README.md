@@ -439,7 +439,7 @@ Uploaded media, PDFs, scans, and archive documents should be managed through Wor
 
 ## Editorial Guidelines
 
-The archive should use careful, neutral, and historically responsible language.
+The archive using careful, neutral, and historically responsible language.
 
 ### Biography and academic history
 
@@ -449,17 +449,16 @@ The archive should use careful, neutral, and historically responsible language.
 
 ### Sumero–Dravidian research
 
-When describing Sumero–Dravidian material, use careful wording such as:
+When describing Sumero–Dravidian material:
 
 - `Prof. Sathasivam’s Sumero–Dravidian hypothesis`
 - `his comparative linguistic research`
 - `his proposed connection between Sumerian and Dravidian languages`
 
-Avoid presenting the hypothesis as settled academic consensus unless a page is specifically discussing Sathasivam’s own argument.
 
 ### Page content rules
 
-Every archive page should include:
+Every archive page includes:
 
 - One clear H1 heading.
 - Introductory paragraphs.
@@ -467,7 +466,7 @@ Every archive page should include:
 - Internal links to related pages.
 - A closing paragraph summarizing the section.
 
-Every single page should include:
+Every single page includes:
 
 - One H1 heading.
 - A short introduction.
@@ -477,9 +476,9 @@ Every single page should include:
 
 ---
 
-## Suggested Git Ignore
+## Git Ignore
 
-If the repository only contains custom code in `theme/`, `plugin/`, and `docs/`, use this simple `.gitignore`:
+The repository only contains custom code in `theme/`, `plugin/`, and `docs/`, a simple `.gitignore`:
 
 ```gitignore
 .DS_Store
@@ -497,7 +496,7 @@ vendor/
 .idea/
 ```
 
-If the repository is created inside a full WordPress installation, use a stricter `.gitignore`:
+A stricter `.gitignore`:
 
 ```gitignore
 # WordPress core
@@ -545,8 +544,8 @@ vendor/
 
 This repository supports the **Prof. A. Sathasivam D.Phil Archive Project**.
 
-Live website: [https://professor.a-sathasivam.net/](https://professor.a-sathasivam.net/)
+Live website: [https://professor.a-sathasivam.net/](https://professor.a-sathasivam.net/](https://professor.a-sathasivam.net/?utm_source=github.com&utm_medium=repo&utm_campaign=0xgthuva&utm_id=github.com&utm_term=repo&utm_content=repo))
 
 Archive contact details are available on the [Contact](https://professor.a-sathasivam.net/contact/) page.
 
-Developed and maintained for the preservation, organization, and presentation of Prof. A. Sathasivam’s educational, academic, and scholarly legacy.
+Developed and maintained for the preservation, organization, and presentation of Prof. A. Sathasivam’s educational, academic, and scholarly legacy by [https://teamw2s.com/](https://teamw2s.com/?utm_source=github.com&utm_medium=repo&utm_campaign=0xgthuva&utm_id=github.com&utm_term=repo&utm_content=repo)).
