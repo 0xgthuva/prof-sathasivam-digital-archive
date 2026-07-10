@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://archive.org/search.php?query=subject%3A%22Sathasivam%22">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Internet_Archive_logo_and_wordmark.svg/512px-Internet_Archive_logo_and_wordmark.svg.png" alt="Internet Archive" width="220">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://archive.org/search.php?query=subject%3A%22Sathasivam%22">Support us on Archive Project</a></strong>
+</p>
+
 # Prof. A. Sathasivam Digital Archive – WordPress Theme, Templates & SEO Structure
 
 This repository contains the custom WordPress code, archive templates, and documentation structure for the **Prof. A. Sathasivam D.Phil Archive Project**.
@@ -547,5 +557,16 @@ This repository supports the **Prof. A. Sathasivam D.Phil Archive Project**.
 Live website: [https://professor.a-sathasivam.net/](https://professor.a-sathasivam.net/](https://professor.a-sathasivam.net/?utm_source=github.com&utm_medium=repo&utm_campaign=0xgthuva&utm_id=github.com&utm_term=repo&utm_content=repo))
 
 Archive contact details are available on the [Contact](https://professor.a-sathasivam.net/contact/) page.
+
+### Support the Archive Project
+
+<a href="https://archive.org/search.php?query=subject%3A%22Sathasivam%22">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Internet_Archive_logo_and_wordmark.svg/512px-Internet_Archive_logo_and_wordmark.svg.png" alt="Internet Archive" width="180">
+</a>
+
+**[Support us on Archive Project](https://archive.org/search.php?query=subject%3A%22Sathasivam%22)**
+
+Explore and support the preservation of Prof. A. Sathasivam’s archival materials on the Internet Archive.
+
 
 Developed and maintained for the preservation, organization, and presentation of Prof. A. Sathasivam’s educational, academic, and scholarly legacy by [https://teamw2s.com/](https://teamw2s.com/?utm_source=github.com&utm_medium=repo&utm_campaign=0xgthuva&utm_id=github.com&utm_term=repo&utm_content=repo)).
