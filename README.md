@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://archive.org/search.php?query=subject%3A%22Sathasivam%22" title="Support the Prof. A. Sathasivam Archive Project on the Internet Archive">
+  <a href="https://archive.org/search?query=creator%3A%22Sathasivam.+A%22" title="Support the Prof. A. Sathasivam Archive Project on the Internet Archive">
     <img src="https://img.shields.io/badge/Internet%20Archive-Support%20the%20Archive-111111?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Internet Archive — Support the Archive Project" width="360" height="36">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://archive.org/search.php?query=subject%3A%22Sathasivam%22">Support us on Archive Project</a></strong>
+  <strong><a href="https://archive.org/search?query=creator%3A%22Sathasivam.+A%22">Support us on Archive Project</a></strong>
 </p>
 
 # Prof. A. Sathasivam Digital Archive – WordPress Theme, Templates & SEO Structure
@@ -560,11 +560,11 @@ Archive contact details are available on the [Contact](https://professor.a-satha
 
 ### Support the Archive Project
 
-<a href="https://archive.org/search.php?query=subject%3A%22Sathasivam%22" title="Support the Prof. A. Sathasivam Archive Project on the Internet Archive">
+<a href="https://archive.org/search?query=creator%3A%22Sathasivam.+A%22" title="Support the Prof. A. Sathasivam Archive Project on the Internet Archive">
   <img src="https://img.shields.io/badge/Internet%20Archive-Support%20the%20Archive-111111?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Internet Archive — Support the Archive Project" width="320" height="32">
 </a>
 
-**[Support us on Archive Project](https://archive.org/search.php?query=subject%3A%22Sathasivam%22)**
+**[Support us on Archive Project](https://archive.org/search?query=creator%3A%22Sathasivam.+A%22)**
 
 Explore and support the preservation of Prof. A. Sathasivam’s archival materials on the Internet Archive.
 
